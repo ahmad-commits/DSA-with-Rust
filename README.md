@@ -3,3 +3,4 @@
 Implementing what I learn in my DSA course in Rust for fun (and pain).
 
 **Current Progress**
+- Linked List
